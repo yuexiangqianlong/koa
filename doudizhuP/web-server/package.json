@@ -1,0 +1,14 @@
+{
+  "name": "HelloWorld",
+  "version": "0.0.1",
+  "private": false,
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "3.4.8"
+  },
+  "devDependencies": {
+    "express-session": "^1.15.3",
+    "mysql": "^2.13.0",
+    "sequelize": "^3.30.4"
+  }
+}
